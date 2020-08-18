@@ -62,7 +62,7 @@ class CenterPageState extends State<CenterPage>
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    "月琴的小本本",
+                    "小本本",
                     style: TextStyle(color: Colors.black, fontSize: 26),
                   ),
                   Text(
